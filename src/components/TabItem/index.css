@@ -1,0 +1,10 @@
+.tab-item {
+  list-style-type: none;
+}
+
+.tab-button {
+  font-size: 18px;
+  background-color: transparent;
+  border-style: none;
+  color: #ffffff;
+}
